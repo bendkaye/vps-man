@@ -1,0 +1,10 @@
+[
+  {
+    "name": "presearch1",
+    "command": "ssh root@107.173.168.43"
+  },
+  {
+    "name": "presearch2",
+    "command": "ssh root@23.95.218.173"
+  }
+]
